@@ -86,4 +86,4 @@ Create `application.yml` or `application.properties` with:
 2. Start the Spring Boot application
 3. Send a POST request to the task endpoint with a task JSON body
 4. Read the final resolution summary returned by the API
-```
+
